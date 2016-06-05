@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YoungHeart.iml" filepath="$PROJECT_DIR$/YoungHeart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidLib2112/androidLib2112.iml" filepath="$PROJECT_DIR$/androidLib2112/androidLib2112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youngHeart2112/youngHeart2112.iml" filepath="$PROJECT_DIR$/youngHeart2112/youngHeart2112.iml" />
+    </modules>
+  </component>
+</project>

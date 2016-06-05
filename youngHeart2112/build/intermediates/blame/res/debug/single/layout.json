@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listdemo.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\activity_listdemo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personcenter.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\activity_personcenter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_main.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\activity_login_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weather.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\item_userlist.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\item_userlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\build\\intermediates\\res\\merged\\debug\\layout\\activity_news.xml",
+        "source": "D:\\AndroidStudioProjects\\YoungHeart\\youngHeart2112\\src\\main\\res\\layout\\activity_news.xml"
+    }
+]
