@@ -5,6 +5,10 @@ import java.util.List;
 
 import com.infrastructure.activity.BaseActivity;
 
+/**
+ *  用来管理请求的
+ */
+
 public class RequestManager {
 	ArrayList<HttpRequest> requestList = null;
 

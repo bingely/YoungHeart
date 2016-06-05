@@ -11,6 +11,8 @@ import android.content.res.XmlResourceParser;
 
 import com.example.androidlib.R;
 
+// 将APP所要调用的API接口信息都放在url.xml，对应实体类URLData
+
 public class UrlConfigManager {
 	private static ArrayList<URLData> urlList;
 

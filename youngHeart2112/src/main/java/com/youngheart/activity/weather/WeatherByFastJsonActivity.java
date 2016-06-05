@@ -58,7 +58,7 @@ public class WeatherByFastJsonActivity extends AppBaseActivity {
 		        loadAPIData2();
 			}
 		};
-		
+		// 原本可以使用HashMap<String,String>这样的数据结构，但是它比较耗费内存（速度快），参数的数据一般不会多
 		ArrayList<RequestParameter> params = new ArrayList<RequestParameter>();
 		RequestParameter rp3 = new RequestParameter("cityAa2", "111");
 		RequestParameter rp1 = new RequestParameter("cityaA", "111");

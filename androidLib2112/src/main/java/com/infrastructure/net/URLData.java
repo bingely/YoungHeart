@@ -1,5 +1,8 @@
 package com.infrastructure.net;
 
+/**
+ *  每个Api接口对应一个URLData实体，参考UrlConfigManager
+ */
 public class URLData {
 	private String key;
 	private long expires;
